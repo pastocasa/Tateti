@@ -1,0 +1,14 @@
+.inline{
+    display: inline-block;
+}
+
+.container{
+    padding: 2%;
+    border: 2px solid black;
+}
+
+.cuadrado{
+    line-height: 20ex;
+    text-align: center;
+    font-size: large;
+}
