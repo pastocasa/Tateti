@@ -12,4 +12,8 @@ $(document).ready(function(){
             is_o = !is_o
         }
     })
+
+    $("#clear").on("click", function(e){
+        $(".cuadrado").val("")
+    })
 })
